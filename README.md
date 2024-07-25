@@ -1,4 +1,4 @@
-## Sentiment Analysis DAG on GCP
+## Airflow DAG for sentiment analysis on GCP
 
 Airflow DAG that performs sentiment analysis on API-fetched news articles.
 The DAG is designed to be deployed on GCP Composer and run at a daily interval.
